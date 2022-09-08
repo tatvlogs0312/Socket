@@ -1,0 +1,7 @@
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\bin\Debug\Server.exe.config
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\bin\Debug\Server.exe
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\bin\Debug\Server.pdb
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\obj\Debug\Server.exe
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Server\obj\Debug\Server.pdb

@@ -1,0 +1,7 @@
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\bin\Debug\Client.exe.config
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\bin\Debug\Client.exe
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\bin\Debug\Client.pdb
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\obj\Debug\Client.exe
+D:\DaiHocDienLuc\ki_5\LapTrinhHeThong\C#\UDP\Client\obj\Debug\Client.pdb
